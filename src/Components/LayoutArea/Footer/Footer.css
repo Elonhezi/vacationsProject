@@ -1,0 +1,12 @@
+.Footer {
+    height: 100%;   
+}
+
+.Footer > * {
+    height: 100%;
+    display: inline-block;
+    justify-content: center;
+    margin: 0 10px;
+    font-size: smaller;   
+}
+

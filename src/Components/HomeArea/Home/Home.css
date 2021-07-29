@@ -1,0 +1,46 @@
+.Home {
+    height:  73vh;
+    overflow: auto;
+}
+
+.Home * {
+    display: flex;
+    flex-direction: column;
+}
+
+.Home > img {
+    max-width: 27vh;
+}
+
+.CardHeaderBox > * {
+    font-family: italic;
+    font-weight: bold;
+    font-size: xx-large;
+    color: rgb(34, 158, 55);
+    text-shadow: 1px 1px #b3d3ba;
+}
+
+.CardBox {
+    display: inline-block;
+    margin: 0 10px;
+    width:70%;
+}
+
+.ContainerCards {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+
+}
+
+.ContainerCards > * {
+    margin: 20px;
+}
+
+.CardBodyBox  {
+    display: inline-flex;
+    flex-direction: row;
+}
+.CardBodyBox > *  > * {
+    margin-left: 50px;
+}

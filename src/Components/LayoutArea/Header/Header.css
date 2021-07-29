@@ -1,0 +1,12 @@
+.Header > * > * > :nth-child(2){
+    position: relative;
+    left: 40px;
+    bottom: 5px;
+}
+.Header *{
+    align-items: center; 
+    color: aliceblue;
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    font-weight: bold;
+}
+

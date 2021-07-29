@@ -1,0 +1,14 @@
+.FollowersIcon {
+    background-color: rgb(14, 38, 117);
+    border: 2px solid rgb(207, 201, 201);
+    width: 40px;
+    height: 40px; 
+    padding: 7px;
+    border-radius: 50%; /* one half of ( (border * 2) + height + padding ) */
+    color: white;
+    font: bolder 20px Helvetica, Verdana, Tahoma;
+    text-align: center;
+    display: inline-block;
+    left: 35px;
+    position: relative;
+}

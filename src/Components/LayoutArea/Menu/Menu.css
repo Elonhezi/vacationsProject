@@ -1,0 +1,11 @@
+.Menu > a {
+    display: block;
+    margin: 20px auto;
+    color: rgb(66, 226, 138);
+}
+
+.Menu .active {
+    color: rgb(207, 235, 107);
+    font-weight: bold;
+    font-family: Arial;
+}

@@ -1,0 +1,24 @@
+.AuthMenu {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    
+}
+
+.AuthMenu > a {
+    color:rgb(226, 142, 64);
+}
+
+.Header {
+    color: aliceblue;
+    font-weight: bolder;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+}
+
+
+
+

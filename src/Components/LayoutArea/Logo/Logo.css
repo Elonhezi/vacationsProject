@@ -1,0 +1,6 @@
+.Logo > img {
+    max-width: 15vh; 
+    position: fixed;
+    left: 10px;
+    top: 1px;
+}

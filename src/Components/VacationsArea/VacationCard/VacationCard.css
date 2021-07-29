@@ -1,0 +1,27 @@
+.VacationCard {
+	width: 300px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.VacationCard img {
+    width: 150px;
+    height: 100px;
+    margin: 10px 40px;
+    border-radius: 10px;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+
+.VacationCard label {
+    font-weight: bolder;
+}
+
+.VacationCard a {
+    color:rgb(83, 40, 184);
+}
+
+.AllIcons *{
+    display:inline-block;
+    margin:0 6px;   
+}

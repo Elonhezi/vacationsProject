@@ -1,0 +1,10 @@
+.VacationDetails > div >  * > img{
+    align-items: center;
+    width: 400px;
+    height: auto;
+    margin: 10px 40px;
+    border-radius: 10px;
+    border: 1px solid black;
+    vertical-align: middle;
+}
+
